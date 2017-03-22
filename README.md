@@ -1,5 +1,7 @@
 # Latihan Bab 2 dan 3
-
+<p align="left">
+  <img src="https://github.com/advprog-practicuum-if-i-1617/latihan-bab-2-dan-3-dimasdhimek/blob/master/demo.gif" width="350"/>
+<p/>
 ## Prosedur Pengerjaan
 
 1. Klik link [https://classroom.github.com/assignment-invitations/df01352222507fbeb013e41673665fcf](https://classroom.github.com/assignment-invitations/df01352222507fbeb013e41673665fcf) untuk menerima invitation untuk pengerjaan soal, lalu accept;
