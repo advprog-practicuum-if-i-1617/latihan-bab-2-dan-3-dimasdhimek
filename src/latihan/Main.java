@@ -57,7 +57,7 @@ public class Main {
         } else if (angka <= 99 && angka >= 20) {
             return converter(angka / 10) + " puluh " + converter(angka % 10);
         } else if (angka >= 12 && angka < 20) {
-            return huruf[angka / 10] + "belas";
+            return huruf[angka % 10] + " belas";
         } else if (angka < 12) {
             if (angka == 11) {
                 return huruf[angka];
